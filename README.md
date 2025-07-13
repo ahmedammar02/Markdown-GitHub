@@ -1,6 +1,6 @@
-## Outils de Collaborations Pédagogiques et Documentations Scientifiques avec Markdown et GitHub
+# Outils de Collaborations Pédagogiques et Documentations Scientifiques avec Markdown et GitHub
 
-### 1. Introduction
+## 1. Introduction
 
 Dans un contexte où la production collaborative de contenus pédagogiques et scientifiques devient essentielle, les outils comme **Markdown** et **GitHub** offrent une alternative moderne, efficace et évolutive aux plateformes classiques telles qu’**Overleaf**.
 
@@ -19,9 +19,9 @@ Markdown et GitHub permettent de lever ces contraintes en offrant :
 
 ---
 
-### 7. Programme détaillé
+## 2. Programme détaillé
 
-#### 🟢 **Jour 1 : Installation et prise en main des outils**
+### 🟢 **Jour 1 : Installation et prise en main des outils**
 
 * Installation complète des environnements :
 
@@ -32,14 +32,14 @@ Markdown et GitHub permettent de lever ces contraintes en offrant :
 * Premiers pas en Markdown : syntaxe de base
 * Premier document simple avec conversion PDF et DOCX via Pandoc
 
-#### 🟠 **Jour 2 : Initiation à Git et GitHub**
+### 🟠 **Jour 2 : Initiation à Git et GitHub**
 
 * Comprendre le fonctionnement de Git : commits, branches, merges
 * Création et gestion d’un dépôt GitHub
 * Travail collaboratif sur un document Markdown
 * Utilisation des fonctionnalités VS Code pour Git et GitHub
 
-#### 🔵 **Jour 3 : Atelier collaboratif avancé**
+### 🔵 **Jour 3 : Atelier collaboratif avancé**
 
 * Scénario collaboratif multi-utilisateurs
 * Gestion des conflits, pull requests, suivi des versions
